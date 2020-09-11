@@ -5,9 +5,9 @@
 - 💭 I’m currently developing a website for a client [Treina Que Passa][website]!
 - 📖 I’m currently learning React
 - ✔️ 2020 Goals: 
-* Contribute to as many Open Source projects as I can
-* Build awesome projects and learn in the process
-* Get hired as a web dev
+  * Contribute to as many Open Source projects as I can
+  * Build awesome projects and learn in the process
+  * Get hired as a web dev
 - 🤔 Fun fact: I love bird memes, pizza and beer
 
 ### Connect with me:
