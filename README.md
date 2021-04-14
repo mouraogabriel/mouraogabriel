@@ -1,14 +1,11 @@
-### Greetings human, My name is Gabriel Mourão 🤖
+### Greetings, My name is Gabriel Mourão
 
-## A Computer Engineer, studying to become a Web Dev!
+## An Industrial Control System cyber security analyst with a degree in computer engineering and a taste for web development!
 
-- 💭 I’m currently developing a website for a client [Treina Que Passa][website]!
-- 📖 I’m currently learning React
-- ✔️ 2020 Goals: 
-  * Contribute to as many Open Source projects as I can
-  * Build awesome projects and learn in the process
-  * Get hired as a web dev
-- 🤔 Fun fact: I love bird memes, pizza and beer
+- 📖 I’m currently studying cyber security
+- ✔️ 2021 Goals: 
+  * Improve my Threat Hunting Skills
+- 🤔 Fun fact: I love bird memes, pizza, beer, and games.
 
 ### Connect with me:
 
