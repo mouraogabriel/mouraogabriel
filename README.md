@@ -4,7 +4,7 @@
 
 - 📖 I’m currently studying cyber security
 - ✔️ 2021 Goals: 
-  * Improve my Threat Hunting Skills
+  * Improve my Threat Hunting and CTF skills.
 - 🤔 Fun fact: I love bird memes, pizza, beer, and games.
 
 ### Connect with me:
